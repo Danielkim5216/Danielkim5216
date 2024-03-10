@@ -2,11 +2,12 @@
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&text=TaegyeongKim&fontColor=FFFFFF&height=200&fontAlign=67&fontAlignY=39&color=0:330867,100:30cfd0)
 
-###  Department of Artificial Intelligence 24
+##  Department of Artificial Intelligence 24
+Computational Science and Engineering 25
   <br/>
   <br/>
 
-### 📄 Tech
+## 📄 Tech
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
@@ -15,13 +16,19 @@
 <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
   <br/>
   <br/>
- 
-
-### 📖 Algorithm  
+  
+## 📖 Algorithm  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=danielkim05216)](https://solved.ac/danielkim05216)  
   <br/>
   <br/>
- 
 
+## 🏆 Certification
+네트워크관리사 2급  
+
+정보처리기능사 (실기 예정) 
+
+리눅스마스터 2급 (실기 예정)
+  <br/>
+  <br/>
   
 </div>
