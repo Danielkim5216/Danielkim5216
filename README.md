@@ -3,7 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=Waving&text=TaegyeongKim&fontColor=FFFFFF&height=200&fontAlign=67&fontAlignY=39&color=0:330867,100:30cfd0)
 
 ##  Department of Artificial Intelligence 24
-Computational Science and Engineering 25
+HYU Computational Science and Engineering 25
   <br/>
   <br/>
   <img src="https://img.shields.io/badge/GDSC-4285F4?style=for-the-badge&logo=Google&logoColor=white"/>
