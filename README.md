@@ -6,8 +6,9 @@
 HYU Computational Science and Engineering 25
   <br/>
   <br/>
+  <img src="https://img.shields.io/badge/COD36EEK-F37143?style=for-the-badge&logo=Packt&logoColor=white"/>
   <img src="https://img.shields.io/badge/GDSC-4285F4?style=for-the-badge&logo=Google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
   <br/>
   <br/>
