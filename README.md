@@ -32,6 +32,8 @@ HYU Computational Science and Engineering 25
 정보처리기능사 (실기 예정) 
 
 리눅스마스터 2급 (실기 예정)
+
+KAIST Introduction to Artificial Intelligence 
   <br/>
   <br/>
   
