@@ -22,7 +22,7 @@ HYU Computational Science and Engineering 25
   <br/>
   
 ## 📖 Algorithm  
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=danielkim05216)](https://solved.ac/danielkim05216)  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=danielkim05216)](https://solved.ac/danielkim05216) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=danielkim05216&theme=dark)
   <br/>
   <br/>
 
