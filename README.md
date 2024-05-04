@@ -9,15 +9,15 @@ HYU Computational Science and Engineering 25
   <img src="https://img.shields.io/badge/danielkim__dev-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>
   <br/>
 
-### 📄 Tech & Tools
+## 📄 Tech & Tools
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,fastapi,tensorflow,vscode,pycharm,clion)](https://skillicons.dev)
   <br/>
   
-### 📖 Algorithm  
+## 📖 Algorithm  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=danielkim05216)](https://solved.ac/danielkim05216) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=danielkim05216&theme=dark)
   <br/>
 
-### 🏆 Certification
+## 🏆 Certification
 -  Network Advisor 2
   
 - KAIST Introduction to Artificial Intelligence
