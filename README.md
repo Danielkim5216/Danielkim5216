@@ -26,8 +26,16 @@ HYU Computational Science and Engineering 25
   <br/>
   <br/>
 
-## 🌐 Teams
+## 👤 Teams
 
 - [COD36EEK](https://ctftime.org/team/270620)
 - [GDSC SYU](https://gdsc.community.dev/sahmyook-university-seoul-south-korea/)
+  <br/>
+  <br/>
+
+## 📚 Education
+
+- 2011~2017 [Seoul Dongbuk Elementary School](https://dongbuk.sen.es.kr/)
+- 2018~2020 [Songrye Middle School](https://songrye.sen.ms.kr/)
+- 2021~2024 [Songpa-gu Munjeong High School](https://mj.sen.hs.kr/) (Team COMPILER)
 </div>
