@@ -25,5 +25,9 @@ HYU Computational Science and Engineering 25
 - kakao x goorm Highschool ALGORITHM
   <br/>
   <br/>
-  
+
+## 🌐 Teams
+
+- [COD36EEK](https://ctftime.org/team/270620)
+- [GDSC SYU](https://gdsc.community.dev/sahmyook-university-seoul-south-korea/)
 </div>
