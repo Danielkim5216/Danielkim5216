@@ -1,6 +1,6 @@
 ## Hi! I'm Taegyeong Kim 👋
 
-HYU Computational Science and Engineering 25
+Department of Artificial Intelligence 24
   <br/>
   <br/>
   <img src="https://img.shields.io/badge/COD36EEK-F37143?style=for-the-badge&logo=Packt&logoColor=white"/>
