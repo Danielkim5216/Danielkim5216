@@ -19,6 +19,8 @@ Department of Artificial Intelligence 24
 
 ## 🏆 Certification
 -  Network Advisor 2
+
+-  Linux Master 2 (expected)
   
 - KAIST Introduction to Artificial Intelligence
 
