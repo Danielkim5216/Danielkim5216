@@ -31,7 +31,7 @@ Department of Artificial Intelligence 24
 ## 👤 Teams
 
 - [COD36EEK](https://ctftime.org/team/270620)
-- [GDSC SYU](https://gdsc.community.dev/sahmyook-university-seoul-south-korea/)
+- [GDSC SYU](https://gdsc.community.dev/sahmyook-university-seoul-south-korea/) (Core Member)
   <br/>
   <br/>
 
