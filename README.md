@@ -1,6 +1,6 @@
 ## Hi! I'm Taegyeong Kim 👋
 
-Department of Artificial Intelligence 24
+Department of Computer Science
   <br/>
   <br/>
   <img src="https://img.shields.io/badge/COD36EEK-F37143?style=for-the-badge&logo=Packt&logoColor=white"/>
