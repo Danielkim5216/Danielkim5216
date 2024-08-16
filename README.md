@@ -20,7 +20,7 @@ Department of Computer Science
 ## 🏆 Certification
 -  Network Advisor 2
 
--  Linux Master 2 (expected)
+-  SEOULTECH(SNUST) Self-Driving Car Engineer Training 
   
 - KAIST Introduction to Artificial Intelligence
 
