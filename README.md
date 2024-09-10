@@ -24,8 +24,8 @@ Department of Computer Science
 
 ## 👤 Teams
 
-- [COD36EEK](https://ctftime.org/team/270620)
-- [GDSC SYU](https://gdsc.community.dev/sahmyook-university-seoul-south-korea/) (Core Member)
+- COD36EEK
+- GDSC (Core Member)
   <br/>
   <br/>
 
