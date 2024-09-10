@@ -21,12 +21,6 @@ Department of Computer Science
 -  Network Advisor 2
 
 -  SEOULTECH(SNUST) Self-Driving Car Engineer Training 
-  
-- KAIST Introduction to Artificial Intelligence
-
-- kakao x goorm Highschool ALGORITHM
-  <br/>
-  <br/>
 
 ## 👤 Teams
 
