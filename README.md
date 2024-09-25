@@ -18,7 +18,9 @@ Department of Computer Science
   <br/>
 
 ## 🏆 Certification
--  Network Advisor 2
+- Craftsman Information Processing (정보처리기능사)
+  
+-  Network Advisor 2 (네트워크 관리사 2급)
 
 -  SEOULTECH(SNUST) Self-Driving Car Engineer Training 
 
