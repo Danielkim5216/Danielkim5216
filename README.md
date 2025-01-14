@@ -22,6 +22,8 @@ Department of Computer Science
   
 -  Network Advisor 2 (네트워크 관리사 2급)
 
+- Linux Master 2 (리눅스 마스터 2급)
+
 -  SEOULTECH(SNUST) Self-Driving Car Engineer Training 
 
 ## 👤 Teams
