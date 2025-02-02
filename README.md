@@ -18,11 +18,11 @@ Department of Computer Science
   <br/>
 
 ## 🏆 Certification
-- Craftsman Information Processing (정보처리기능사)
+- Craftsman Information Processing 
   
--  Network Advisor 2 (네트워크 관리사 2급)
+- Network Advisor 2 
 
-- Linux Master 2 (리눅스 마스터 2급)
+- Linux Master 2 
 
 -  SEOULTECH(SNUST) Self-Driving Car Engineer Training 
 
