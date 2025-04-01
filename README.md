@@ -1,6 +1,6 @@
 ## Hi! I'm Taegyeong Kim 👋
 
-MIT EECS 24
+CSE 
   <br/>
   <br/>
   <img src="https://img.shields.io/badge/COD36EEK-F37143?style=for-the-badge&logo=Packt&logoColor=white"/>
