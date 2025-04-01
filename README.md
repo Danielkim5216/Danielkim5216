@@ -1,6 +1,6 @@
 ## Hi! I'm Taegyeong Kim 👋
 
-Department of Computer Science
+MIT EECS 24
   <br/>
   <br/>
   <img src="https://img.shields.io/badge/COD36EEK-F37143?style=for-the-badge&logo=Packt&logoColor=white"/>
